@@ -1,0 +1,6 @@
+boy
+girl
+man
+women
+apple
+banana
