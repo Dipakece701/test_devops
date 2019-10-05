@@ -1,0 +1,12 @@
+nothing added to commit but untracked files present (use "git add" to track)
+[root@dipak test_devops]# git add .
+[root@dipak test_devops]# git status
+# On branch master
+# Changes to be committed:
+fast
+last
+cast
+wast
+lost
+gost
+most
